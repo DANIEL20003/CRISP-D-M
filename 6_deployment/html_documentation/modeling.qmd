@@ -1,0 +1,5 @@
+---
+title: "Fase 4: Modelado"
+---
+
+Aquí se documentará el proceso de modelado, incluyendo la selección del algoritmo y el entrenamiento.

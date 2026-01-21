@@ -1,0 +1,7 @@
+---
+title: "Sobre el Proyecto"
+---
+
+Este proyecto fue desarrollado como parte de la implementación de la metodología CRISP-DM para la empresa "ElectroHogar Riobamba".
+
+**Objetivo:** Desarrollar un modelo de segmentación de clientes para mejorar la toma de decisiones estratégicas de marketing y ventas.

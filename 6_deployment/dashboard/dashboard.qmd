@@ -1,0 +1,52 @@
+
+---
+title: "Dashboard de Segmentación de Clientes"
+format: dashboard
+---
+
+# Análisis RFM
+
+## Row 1
+
+### Chart 1
+
+```{python}
+#| title: "Distribución de Clientes por Segmento"
+# Placeholder for a plot showing the number of customers in each segment
+import matplotlib.pyplot as plt
+import numpy as np
+
+segments = ['Campeones', 'Leales', 'En Riesgo', 'Nuevos']
+counts = [50, 150, 80, 220]
+
+fig, ax = plt.subplots()
+ax.bar(segments, counts, color=['gold', 'royalblue', 'tomato', 'lightgreen'])
+ax.set_ylabel('Número de Clientes')
+plt.show()
+```
+
+## Row 2
+
+### Chart 2
+
+```{python}
+#| title: "Gasto Promedio por Segmento"
+# Placeholder for a plot showing the average 'Monetary' value per segment
+fig, ax = plt.subplots()
+avg_spend = [2500, 1200, 800, 400]
+ax.bar(segments, avg_spend, color=['gold', 'royalblue', 'tomato', 'lightgreen'])
+ax.set_ylabel('Gasto Promedio (USD)')
+plt.show()
+```
+
+### Chart 3
+
+```{python}
+#| title: "Recencia Promedio por Segmento"
+# Placeholder for a plot showing the average 'Recency' per segment
+fig, ax = plt.subplots()
+avg_recency = [30, 90, 250, 150]
+ax.bar(segments, avg_recency, color=['gold', 'royalblue', 'tomato', 'lightgreen'])
+ax.set_ylabel('Recencia Promedio (Días)')
+plt.show()
+```

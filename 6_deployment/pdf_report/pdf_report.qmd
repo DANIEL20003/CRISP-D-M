@@ -1,0 +1,22 @@
+---
+title: "Informe Ejecutivo: Segmentación de Clientes RFM"
+author: "Gemini"
+date: "today"
+format: 
+  pdf:
+    toc: true
+---
+
+# Resumen Ejecutivo
+
+Este documento presenta los resultados del análisis de segmentación de clientes basado en el modelo RFM (Recencia, Frecuencia, Monetario). Se identificaron X segmentos de clientes clave, lo que permitirá a ElectroHogar Riobamba diseñar estrategias de marketing personalizadas y mejorar la retención.
+
+# Hallazgos Principales
+
+*   **Segmento 1: Campeones:** Clientes de alto valor...
+*   **Segmento 2: Leales:** Clientes recurrentes...
+*   **Segmento 3: En Riesgo:** Clientes que no han comprado en mucho tiempo...
+
+# Recomendaciones
+
+Se recomienda implementar las siguientes acciones...

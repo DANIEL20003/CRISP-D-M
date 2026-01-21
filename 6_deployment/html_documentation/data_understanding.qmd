@@ -1,0 +1,5 @@
+---
+title: "Fase 2: Entendimiento de los Datos"
+---
+
+Aquí se resumirán los hallazgos de la fase de Entendimiento de los Datos.

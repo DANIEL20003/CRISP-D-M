@@ -1,0 +1,62 @@
+[
+  {
+    "objectID": "modeling.html",
+    "href": "modeling.html",
+    "title": "Fase 4: Modelado",
+    "section": "",
+    "text": "Aquí se documentará el proceso de modelado, incluyendo la selección del algoritmo y el entrenamiento.",
+    "crumbs": [
+      "3. Modelado"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Inicio",
+    "section": "",
+    "text": "Bienvenido a la documentación del proyecto de Segmentación de Clientes RFM para la empresa “ElectroHogar Riobamba”.\nEste sitio web documenta todo el proceso del proyecto, desde la comprensión del negocio hasta la evaluación de los resultados, siguiendo la metodología CRISP-DM.\nUtiliza la barra de navegación lateral para explorar las diferentes fases del proyecto.",
+    "crumbs": [
+      "Inicio"
+    ]
+  },
+  {
+    "objectID": "data_understanding.html",
+    "href": "data_understanding.html",
+    "title": "Fase 2: Entendimiento de los Datos",
+    "section": "",
+    "text": "Aquí se resumirán los hallazgos de la fase de Entendimiento de los Datos.",
+    "crumbs": [
+      "2. Entendimiento de Datos"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre el Proyecto",
+    "section": "",
+    "text": "Este proyecto fue desarrollado como parte de la implementación de la metodología CRISP-DM para la empresa “ElectroHogar Riobamba”.\nObjetivo: Desarrollar un modelo de segmentación de clientes para mejorar la toma de decisiones estratégicas de marketing y ventas.",
+    "crumbs": [
+      "Sobre el Proyecto"
+    ]
+  },
+  {
+    "objectID": "evaluation.html",
+    "href": "evaluation.html",
+    "title": "Fase 5: Evaluación",
+    "section": "",
+    "text": "Aquí se presentará la evaluación del modelo y la interpretación de los segmentos de clientes.",
+    "crumbs": [
+      "4. Evaluación"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introducción",
+    "section": "",
+    "text": "Esta es la introducción al proyecto de segmentación de clientes.",
+    "crumbs": [
+      "1. Introducción"
+    ]
+  }
+]

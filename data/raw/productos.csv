@@ -1,0 +1,151 @@
+producto_id,nombre,categoria,marca,precio_unitario,stock
+1,Lavadora Electrolux 18kg,Lavadoras,Electrolux,978.26,45
+2,Freidora de Aire Umco,Pequeños Electrodomésticos,Umco,217.43,33
+3,"TV TCL 50"" 4K",Televisores,TCL,1375.53,10
+4,Lavadora LG 16kg,Lavadoras,LG,585.58,46
+5,Refrigeradora Whirlpool 360L,Refrigeradoras,Whirlpool,869.3,30
+6,Lavadora Whirlpool 20kg,Lavadoras,Whirlpool,888.56,25
+7,"TV Samsung 65"" 4K",Televisores,Samsung,1589.42,21
+8,Cafetera Taurus,Pequeños Electrodomésticos,Taurus,200.01,49
+9,"TV Hyundai 50"" 4K",Televisores,Hyundai,646.08,30
+10,Cocina Electrolux 6 quemadores,Cocinas,Electrolux,688.49,20
+11,Cocina Mabe 6 quemadores,Cocinas,Mabe,800.53,14
+12,Refrigeradora LG 340L,Refrigeradoras,LG,945.61,26
+13,Cocina Whirlpool 4 quemadores,Cocinas,Whirlpool,749.22,29
+14,Lavadora Mabe 15kg,Lavadoras,Mabe,729.09,19
+15,Lavadora Whirlpool 17kg,Lavadoras,Whirlpool,1025.09,16
+16,Cocina Indurama 6 quemadores,Cocinas,Indurama,503.78,17
+17,Freidora de Aire Umco,Pequeños Electrodomésticos,Umco,50.81,21
+18,Cocina Electrolux 5 quemadores,Cocinas,Electrolux,670.96,13
+19,Licuadora Black+Decker,Pequeños Electrodomésticos,Black+Decker,230.76,32
+20,"TV Rivera 65"" 4K",Televisores,Rivera,558.12,41
+21,Refrigeradora LG 376L,Refrigeradoras,LG,646.49,32
+22,Lavadora Mabe 16kg,Lavadoras,Mabe,1063.08,32
+23,"TV Hyundai 50"" 4K",Televisores,Hyundai,1506.15,6
+24,Cocina Electrolux 6 quemadores,Cocinas,Electrolux,360.26,30
+25,"TV LG 50"" 4K",Televisores,LG,1994.53,46
+26,"TV Hyundai 65"" 4K",Televisores,Hyundai,584.92,33
+27,"TV Hyundai 65"" 4K",Televisores,Hyundai,1580.23,6
+28,Refrigeradora Samsung 276L,Refrigeradoras,Samsung,619.64,40
+29,"TV TCL 50"" 4K",Televisores,TCL,1474.96,38
+30,Cocina Indurama 5 quemadores,Cocinas,Indurama,445.93,29
+31,Freidora de Aire Umco,Pequeños Electrodomésticos,Umco,60.91,22
+32,Cafetera Oster,Pequeños Electrodomésticos,Oster,210.36,30
+33,Refrigeradora Mabe 263L,Refrigeradoras,Mabe,1244.88,24
+34,Cocina Indurama 5 quemadores,Cocinas,Indurama,339.75,14
+35,Refrigeradora Mabe 397L,Refrigeradoras,Mabe,1242.38,12
+36,Cocina Electrolux 5 quemadores,Cocinas,Electrolux,487.48,22
+37,Cafetera Black+Decker,Pequeños Electrodomésticos,Black+Decker,97.71,27
+38,Refrigeradora Mabe 393L,Refrigeradoras,Mabe,1036.49,43
+39,Cocina Indurama 5 quemadores,Cocinas,Indurama,524.21,34
+40,Freidora de Aire Oster,Pequeños Electrodomésticos,Oster,59.67,9
+41,Cafetera Oster,Pequeños Electrodomésticos,Oster,180.3,24
+42,Licuadora Oster,Pequeños Electrodomésticos,Oster,165.34,36
+43,Freidora de Aire Black+Decker,Pequeños Electrodomésticos,Black+Decker,145.52,50
+44,Refrigeradora Mabe 399L,Refrigeradoras,Mabe,1186.21,18
+45,Cafetera Oster,Pequeños Electrodomésticos,Oster,88.7,38
+46,Refrigeradora Indurama 362L,Refrigeradoras,Indurama,1497.01,20
+47,Licuadora Umco,Pequeños Electrodomésticos,Umco,33.79,15
+48,"TV Rivera 43"" 4K",Televisores,Rivera,504.02,34
+49,Licuadora Black+Decker,Pequeños Electrodomésticos,Black+Decker,115.0,14
+50,"TV Samsung 50"" 4K",Televisores,Samsung,417.74,11
+51,Lavadora Whirlpool 12kg,Lavadoras,Whirlpool,602.93,33
+52,Licuadora Oster,Pequeños Electrodomésticos,Oster,187.01,10
+53,Freidora de Aire Taurus,Pequeños Electrodomésticos,Taurus,178.66,38
+54,Licuadora Black+Decker,Pequeños Electrodomésticos,Black+Decker,129.59,8
+55,Freidora de Aire Umco,Pequeños Electrodomésticos,Umco,120.66,46
+56,Cocina Electrolux 6 quemadores,Cocinas,Electrolux,336.46,25
+57,"TV Rivera 55"" 4K",Televisores,Rivera,1448.57,12
+58,Freidora de Aire Oster,Pequeños Electrodomésticos,Oster,92.49,31
+59,Refrigeradora Samsung 375L,Refrigeradoras,Samsung,892.97,41
+60,Refrigeradora Samsung 272L,Refrigeradoras,Samsung,1167.66,18
+61,Refrigeradora Samsung 349L,Refrigeradoras,Samsung,916.44,16
+62,"TV Hyundai 55"" 4K",Televisores,Hyundai,1964.74,41
+63,Freidora de Aire Taurus,Pequeños Electrodomésticos,Taurus,140.69,49
+64,Cocina Electrolux 6 quemadores,Cocinas,Electrolux,700.59,9
+65,"TV Hyundai 50"" 4K",Televisores,Hyundai,1923.18,17
+66,Refrigeradora Mabe 349L,Refrigeradoras,Mabe,1089.73,13
+67,Lavadora Mabe 19kg,Lavadoras,Mabe,891.91,10
+68,"TV LG 65"" 4K",Televisores,LG,1909.7,40
+69,Cocina Electrolux 5 quemadores,Cocinas,Electrolux,490.04,47
+70,"TV LG 32"" 4K",Televisores,LG,1204.03,26
+71,Cocina Electrolux 6 quemadores,Cocinas,Electrolux,304.79,25
+72,Cocina Mabe 6 quemadores,Cocinas,Mabe,624.08,29
+73,Cocina Whirlpool 4 quemadores,Cocinas,Whirlpool,305.97,25
+74,Licuadora Oster,Pequeños Electrodomésticos,Oster,135.3,17
+75,"TV Samsung 43"" 4K",Televisores,Samsung,880.63,42
+76,Cocina Whirlpool 4 quemadores,Cocinas,Whirlpool,578.17,50
+77,Refrigeradora Samsung 371L,Refrigeradoras,Samsung,1273.12,27
+78,"TV Rivera 32"" 4K",Televisores,Rivera,1439.91,47
+79,Lavadora Whirlpool 22kg,Lavadoras,Whirlpool,416.75,44
+80,Refrigeradora Whirlpool 367L,Refrigeradoras,Whirlpool,806.11,25
+81,Lavadora Electrolux 12kg,Lavadoras,Electrolux,464.06,26
+82,Lavadora Electrolux 20kg,Lavadoras,Electrolux,704.59,33
+83,Lavadora Electrolux 21kg,Lavadoras,Electrolux,1092.26,40
+84,Cafetera Oster,Pequeños Electrodomésticos,Oster,97.61,10
+85,"TV Rivera 50"" 4K",Televisores,Rivera,876.82,32
+86,Cocina Indurama 5 quemadores,Cocinas,Indurama,674.55,25
+87,"TV Samsung 55"" 4K",Televisores,Samsung,1261.9,7
+88,"TV Rivera 55"" 4K",Televisores,Rivera,1860.11,23
+89,"TV TCL 43"" 4K",Televisores,TCL,357.62,44
+90,Cocina Electrolux 4 quemadores,Cocinas,Electrolux,689.91,43
+91,Lavadora LG 19kg,Lavadoras,LG,438.61,11
+92,Cocina Mabe 6 quemadores,Cocinas,Mabe,345.96,35
+93,Refrigeradora Indurama 388L,Refrigeradoras,Indurama,783.23,18
+94,"TV Rivera 65"" 4K",Televisores,Rivera,1151.39,15
+95,Refrigeradora LG 278L,Refrigeradoras,LG,1497.52,9
+96,Cocina Electrolux 6 quemadores,Cocinas,Electrolux,771.82,43
+97,Cocina Indurama 6 quemadores,Cocinas,Indurama,739.57,36
+98,Cocina Mabe 4 quemadores,Cocinas,Mabe,897.7,29
+99,Lavadora Mabe 13kg,Lavadoras,Mabe,1130.87,28
+100,Refrigeradora Samsung 346L,Refrigeradoras,Samsung,725.55,46
+101,"TV Hyundai 43"" 4K",Televisores,Hyundai,1579.35,37
+102,Refrigeradora Mabe 368L,Refrigeradoras,Mabe,527.12,36
+103,Cocina Whirlpool 6 quemadores,Cocinas,Whirlpool,312.44,41
+104,Lavadora Samsung 19kg,Lavadoras,Samsung,910.09,39
+105,Lavadora LG 18kg,Lavadoras,LG,718.91,16
+106,"TV Samsung 32"" 4K",Televisores,Samsung,1894.86,11
+107,"TV Samsung 65"" 4K",Televisores,Samsung,801.4,6
+108,"TV TCL 65"" 4K",Televisores,TCL,351.2,10
+109,Cocina Mabe 5 quemadores,Cocinas,Mabe,591.49,22
+110,Refrigeradora Mabe 393L,Refrigeradoras,Mabe,1397.94,45
+111,Cocina Mabe 5 quemadores,Cocinas,Mabe,849.44,28
+112,Freidora de Aire Black+Decker,Pequeños Electrodomésticos,Black+Decker,104.51,5
+113,"TV TCL 55"" 4K",Televisores,TCL,933.62,41
+114,"TV Hyundai 32"" 4K",Televisores,Hyundai,1433.0,14
+115,Licuadora Oster,Pequeños Electrodomésticos,Oster,221.49,18
+116,"TV Samsung 50"" 4K",Televisores,Samsung,634.79,13
+117,"TV Hyundai 32"" 4K",Televisores,Hyundai,1968.91,15
+118,Refrigeradora Whirlpool 251L,Refrigeradoras,Whirlpool,562.41,15
+119,Refrigeradora Mabe 326L,Refrigeradoras,Mabe,1495.25,46
+120,Cafetera Taurus,Pequeños Electrodomésticos,Taurus,46.6,19
+121,"TV LG 43"" 4K",Televisores,LG,655.73,20
+122,Lavadora LG 20kg,Lavadoras,LG,448.34,26
+123,"TV Samsung 50"" 4K",Televisores,Samsung,357.47,18
+124,Refrigeradora Samsung 308L,Refrigeradoras,Samsung,583.52,6
+125,"TV Rivera 55"" 4K",Televisores,Rivera,1166.94,18
+126,Lavadora Samsung 22kg,Lavadoras,Samsung,417.04,24
+127,Licuadora Taurus,Pequeños Electrodomésticos,Taurus,58.8,12
+128,"TV Samsung 32"" 4K",Televisores,Samsung,1908.0,42
+129,Lavadora Mabe 20kg,Lavadoras,Mabe,761.85,32
+130,Licuadora Taurus,Pequeños Electrodomésticos,Taurus,147.82,28
+131,"TV Samsung 55"" 4K",Televisores,Samsung,1795.22,47
+132,Refrigeradora Samsung 360L,Refrigeradoras,Samsung,1125.2,22
+133,"TV Rivera 32"" 4K",Televisores,Rivera,1835.56,47
+134,Lavadora Samsung 16kg,Lavadoras,Samsung,1075.17,27
+135,"TV Hyundai 65"" 4K",Televisores,Hyundai,682.7,34
+136,Licuadora Oster,Pequeños Electrodomésticos,Oster,143.71,36
+137,Refrigeradora Mabe 327L,Refrigeradoras,Mabe,961.39,34
+138,Licuadora Taurus,Pequeños Electrodomésticos,Taurus,69.16,11
+139,Licuadora Oster,Pequeños Electrodomésticos,Oster,70.49,21
+140,Cocina Electrolux 6 quemadores,Cocinas,Electrolux,482.66,17
+141,Lavadora Electrolux 20kg,Lavadoras,Electrolux,819.69,24
+142,Refrigeradora Indurama 284L,Refrigeradoras,Indurama,1220.0,38
+143,Cocina Electrolux 5 quemadores,Cocinas,Electrolux,897.89,8
+144,"TV Samsung 55"" 4K",Televisores,Samsung,1208.31,42
+145,Cocina Electrolux 4 quemadores,Cocinas,Electrolux,400.3,25
+146,Cocina Electrolux 6 quemadores,Cocinas,Electrolux,854.05,45
+147,"TV TCL 32"" 4K",Televisores,TCL,826.26,6
+148,Licuadora Umco,Pequeños Electrodomésticos,Umco,61.41,45
+149,Cocina Electrolux 6 quemadores,Cocinas,Electrolux,701.61,40
+150,Lavadora Samsung 15kg,Lavadoras,Samsung,719.92,37

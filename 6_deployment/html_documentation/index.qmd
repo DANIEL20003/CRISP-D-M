@@ -1,0 +1,9 @@
+---
+title: "Inicio"
+---
+
+Bienvenido a la documentación del proyecto de **Segmentación de Clientes RFM** para la empresa "ElectroHogar Riobamba".
+
+Este sitio web documenta todo el proceso del proyecto, desde la comprensión del negocio hasta la evaluación de los resultados, siguiendo la metodología CRISP-DM.
+
+Utiliza la barra de navegación lateral para explorar las diferentes fases del proyecto.

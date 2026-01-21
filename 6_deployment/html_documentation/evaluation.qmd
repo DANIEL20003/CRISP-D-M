@@ -1,0 +1,5 @@
+---
+title: "Fase 5: Evaluación"
+---
+
+Aquí se presentará la evaluación del modelo y la interpretación de los segmentos de clientes.

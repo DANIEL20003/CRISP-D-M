@@ -1,0 +1,20 @@
+{
+  "about.qmd": {
+    "about.html": "69511659"
+  },
+  "data_understanding.qmd": {
+    "data_understanding.html": "b9ca6a0e"
+  },
+  "evaluation.qmd": {
+    "evaluation.html": "7204c191"
+  },
+  "index.qmd": {
+    "index.html": "9f60c791"
+  },
+  "intro.qmd": {
+    "intro.html": "c82f120f"
+  },
+  "modeling.qmd": {
+    "modeling.html": "6ac75f17"
+  }
+}

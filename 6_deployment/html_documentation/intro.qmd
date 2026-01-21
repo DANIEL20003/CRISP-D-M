@@ -1,0 +1,5 @@
+---
+title: "Introducción"
+---
+
+Esta es la introducción al proyecto de segmentación de clientes.
